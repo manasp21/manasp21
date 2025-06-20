@@ -1,18 +1,28 @@
 <div align="center">
 
-# A long time ago, in a repository far, far away...
+## A long time ago, in a repository far, far away...
+
+**Episode IV**
+
+# A NEW DEVELOPER
+
+*It is a period of great technological upheaval.*  
+*A young developer emerges from the depths of code*  
+*repositories, wielding the ancient arts of programming*  
+*and the mysterious ways of the Force.*
+
+*The GALACTIC FEDERATION OF DEVELOPERS*  
+*has been scattered across the digital cosmos,*  
+*each warrior-coder fighting to bring balance*  
+*to the chaos of legacy systems and forgotten*  
+*documentation.*
+
+*Among them stands MANAS, a padawan*  
+*developer whose destiny is intertwined*  
+*with the fate of countless applications*  
+*yet to be born...*
 
 </div>
-
----
-
-## Episode IV: A New Developer
-
-In a time of great technological upheaval, a young developer emerges from the depths of code repositories, wielding the ancient arts of programming and the mysterious ways of the Force.
-
-The **GALACTIC FEDERATION OF DEVELOPERS** has been scattered across the digital cosmos, each warrior-coder fighting to bring balance to the chaos of legacy systems and forgotten documentation.
-
-Among them stands **MANAS**, a padawan developer whose destiny is intertwined with the fate of countless applications yet to be born...
 
 ---
 
