@@ -51,7 +51,7 @@ yet to be born...</i>
 
 <br>
 
-<h3>🌟 About This Jedi Developer</h3>
+<h3>About This Jedi Developer</h3>
 
 <p><i>"The Force is strong with this one..."</i></p>
 
@@ -61,7 +61,7 @@ by the hope of creating something greater than myself.</p>
 
 <br>
 
-<h3>⚔️ Current Mission</h3>
+<h3>⚔ Current Mission</h3>
 
 <p><i>"Do or do not, there is no try"</i></p>
 
@@ -70,7 +70,7 @@ and opportunities to grow stronger in the ways of the Force.</p>
 
 <br>
 
-<h3>🚀 The Journey Continues</h3>
+<h3>The Journey Continues</h3>
 
 <p><i>"The Force will be with you... always"</i></p>
 
